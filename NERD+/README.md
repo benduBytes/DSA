@@ -5,7 +5,7 @@
 | Day   | Topic                                 | Program Name                          |
 |-------|---------------------------------------|---------------------------------------|
 | Day 1 | [Arrays Algorithms](./ArraysAlgorithms)                     | Will be added soon                    |
-| Day 2 | [String Algorithms](./Strings)                     | CountingOccuranceOfSubString.java, ExtractSubString.java, LongestPalindromicSubString.java, ReplaceString.java, ReverseSubString.java                |
+| Day 2 | [String Algorithms](https://github.com/benduBytes/DSA/tree/main/NERD%2B/Strings)                     | CountingOccuranceOfSubString.java, ExtractSubString.java, LongestPalindromicSubString.java, ReplaceString.java, ReverseSubString.java                |
 | Day 3 | [Linked List - Basics](https://github.com/benduBytes/DSA/tree/main/NERD%2B/LinkedList)                  | deletionFromEnd.java, DoublyLinkedLIst.java, InsersionAtBegining.java, InsersionAtMiddle.java, InsertionAtEnd.java, SinglyCircularLinkedList.java                      |
 | Day 4 | [Linked List - Applications](https://github.com/benduBytes/DSA/tree/main/NERD%2B/ApplicationOfLinkedList)            | PolynomialManipulation.java           |
 | Day 5 | [Stack - Basics](https://github.com/benduBytes/DSA/tree/main/NERD%2B/Stack)                        | ImplementationUsingArray.java, ImplementationUsingLinkedList.java, UsingStackLibraryProb1.java, UsingStackLibraryProb2.java                     |
