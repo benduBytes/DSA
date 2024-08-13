@@ -46,9 +46,6 @@ As I prepare for job interviews, this section will include:
 
 If you have any suggestions, improvements, or want to share your own resources, feel free to fork this repository and submit a pull request. I'm always open to learning from others!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
